@@ -5,6 +5,7 @@ void menu ();
 void manual();
 void modoAventura();
 void nombre();
+void modoDios();
 
 
 
