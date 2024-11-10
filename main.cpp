@@ -29,8 +29,7 @@ srand(time(0));
            nombre();
             break;
         case 3:
-            cout<<"God mode:"<<endl;
-         nombre();
+          modoDios();
             break;
         case 4:
             cout<<"estadisticas:"<<endl;
